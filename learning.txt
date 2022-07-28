@@ -1,3 +1,5 @@
 Hello all
 
 Welcome to Java World
+
+Education should be compulsory..
